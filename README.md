@@ -8,4 +8,4 @@ https://blogs.cuttingedge.it/steven/  -> Steven van Deursen: co-author of Depend
 https://blog.stephencleary.com/   -> Stephen Cleary: author of Concurrency in C# Cookbook
  (https://oreil.ly/2WLk247)
 
-http://blog.stevensanderson.com/ -> Steve Sanderson: part of ASP.NET team in Microsoft. Also the person behind the Knockout JS Framework(https://knockoutjs.com/);
+http://blog.stevensanderson.com/ -> Steve Sanderson: part of ASP.NET team at Microsoft. Also the person behind the Knockout JS Framework(https://knockoutjs.com/);
