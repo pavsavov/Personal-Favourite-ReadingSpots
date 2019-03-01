@@ -9,3 +9,5 @@ https://blog.stephencleary.com/   -> Stephen Cleary: author of Concurrency in C#
  (https://oreil.ly/2WLk247)
 
 http://blog.stevensanderson.com/ -> Steve Sanderson: part of ASP.NET team at Microsoft. Also the person behind the Knockout JS Framework(https://knockoutjs.com/);
+
+https://codeblog.jonskeet.uk/ -> Jon Skeet: Senior Developer at Google. Author of C# in Depth (https://bit.ly/2TIZwPw);
