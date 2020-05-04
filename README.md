@@ -17,4 +17,4 @@ http://codetunnel.com/ -> Simple and very organized blog. Some of the tips are v
 https://blog.ploeh.dk/about/ -> Mark Seeman's professional blog;
 
 
-https://www.thereformedprogrammer.net/?fbclid=IwAR0BXL6DvM1RnlEg8nmxQtxMGpXDRrJofNZQ-V-kTVexe63_f4OVxms9eEw - Great blog for ORM usage,Architechture etc.
+https://www.thereformedprogrammer.net/ - Great blog for ORM usage,Architechture etc.
