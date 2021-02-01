@@ -18,3 +18,5 @@ https://blog.ploeh.dk/about/ -> Mark Seeman's professional blog;
 
 
 https://www.thereformedprogrammer.net/ - Great blog for ORM usage,Architechture etc.
+
+https://sebnilsson.com/blog/best-csharp-dotnet-blogs/ - .net blogs 
