@@ -22,3 +22,5 @@ https://www.thereformedprogrammer.net/ - Great blog for ORM usage,Architechture 
 https://sebnilsson.com/blog/best-csharp-dotnet-blogs/ - .net blogs 
 
 https://turnerj.com/ 
+ 
+https://digitalmccullough.com/ - David McCullough's Blog
